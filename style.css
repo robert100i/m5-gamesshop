@@ -57,6 +57,11 @@ section .container {
 
 }
 
+.container > img {
+    height: 500px;
+    margin-right: 50px;
+}
+
 section {
     padding: 24px 0;
     color: #182C61;
